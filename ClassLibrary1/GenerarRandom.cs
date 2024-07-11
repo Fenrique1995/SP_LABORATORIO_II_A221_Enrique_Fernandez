@@ -11,6 +11,10 @@ namespace ClassLibrary1
         private static Random random = new Random();
         public static double DoubleAleatorio(int max, int min)
         {
+            return random.NextDouble() * (max - min) + min;
+        }
+        public static int EnteroAleatorio(int max, int min)
+        {
             return random.Next(max, min);
         }
     }

@@ -1,0 +1,16 @@
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Barco>
+      <Nombre>Barco1</Nombre>
+      <Tipo>Velero</Tipo>
+      <Eslora>30.5</Eslora>
+      <!-- otros campos -->
+    </Barco>
+    <Barco>
+      <Nombre>Barco2</Nombre>
+      <Tipo>Lancha</Tipo>
+      <Eslora>20.0</Eslora>
+      <!-- otros campos -->
+    </Barco>
+    <!-- otros barcos -->
+  </ArrayOfBarco>
+  

@@ -3,16 +3,60 @@
   "WorkspaceRootPath": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\classlibrary1\\generarrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\generarrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\segundoparcial\\frmver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\frmver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\classlibrary1\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\segundoparcial\\frmbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\frmbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\segundoparcial\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\segundoparcial\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\segundoparcial\\frmbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\frmbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\segundoparcial\\frmver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\frmver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\classlibrary1\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\classlibrary1\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\segundoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\classlibrary1\\marina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\marina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\classlibrary1\\pirata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\pirata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\classlibrary1\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED14AF21-78CC-4F29-B517-632AD084FBB2}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\segundoparcial\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|d:\\fenri\\documents\\01-segundo cuatrimestre (labo y progra ii)\\segundoparcial\\segundoparcial\\segundoparcial\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09ED3172-87DF-4FC6-9A8C-0166A8D96762}|SegundoParcial\\SegundoParcial.csproj|solutionrelative:segundoparcial\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +71,179 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenerarRandom.cs",
-              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\GenerarRandom.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\GenerarRandom.cs",
-              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\GenerarRandom.cs",
-              "RelativeToolTip": "ClassLibrary1\\GenerarRandom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Title": "FrmVer.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmVer.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\FrmVer.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmVer.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcial\\FrmVer.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T18:21:17.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T18:31:17.159Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Barco.cs",
-              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\Barco.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Barco.cs",
-              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\Barco.cs",
-              "RelativeToolTip": "ClassLibrary1\\Barco.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAIwDAAAAAJAAAA",
+              "Title": "Taller.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\Taller.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Taller.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\Taller.cs",
+              "RelativeToolTip": "ClassLibrary1\\Taller.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA5wBUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T17:44:16.362Z",
+              "WhenOpened": "2024-07-11T16:10:32.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\Form1.cs",
-              "RelativeDocumentMoniker": "SegundoParcial\\Form1.cs",
-              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SegundoParcial\\Form1.cs [Dise\u00F1o]",
+              "Title": "FrmBarco.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmBarco.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\FrmBarco.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmBarco.cs",
+              "RelativeToolTip": "SegundoParcial\\FrmBarco.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwFcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T17:37:36.793Z",
+              "WhenOpened": "2024-07-11T15:37:31.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\FrmPrincipal.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmPrincipal.cs",
+              "RelativeToolTip": "SegundoParcial\\FrmPrincipal.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAApwGwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:37:54.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\FrmPrincipal.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcial\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:21:24.517Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmBarco.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmBarco.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\FrmBarco.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmBarco.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcial\\FrmBarco.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T15:37:26.238Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmVer.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmVer.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\FrmVer.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmVer.cs",
+              "RelativeToolTip": "SegundoParcial\\FrmVer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:32:24.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\AccesoDatos.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\AccesoDatos.cs",
+              "RelativeToolTip": "ClassLibrary1\\AccesoDatos.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwFUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:43:21.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Barco.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\Barco.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Barco.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\Barco.cs",
+              "RelativeToolTip": "ClassLibrary1\\Barco.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwDUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:58:36.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Marina.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\Marina.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Marina.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\Marina.cs",
+              "RelativeToolTip": "ClassLibrary1\\Marina.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:59:35.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pirata.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\Pirata.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Pirata.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\Pirata.cs",
+              "RelativeToolTip": "ClassLibrary1\\Pirata.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:59:45.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "XmlManager.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\XmlManager.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\XmlManager.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\ClassLibrary1\\XmlManager.cs",
+              "RelativeToolTip": "ClassLibrary1\\XmlManager.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwE0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:51:47.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmReparacion.cs",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmReparacion.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\FrmReparacion.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmReparacion.cs",
+              "RelativeToolTip": "SegundoParcial\\FrmReparacion.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:34:29.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmReparacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmReparacion.cs",
+              "RelativeDocumentMoniker": "SegundoParcial\\FrmReparacion.cs",
+              "ToolTip": "D:\\fenri\\Documents\\01-Segundo Cuatrimestre (Labo y Progra II)\\segundoParcial\\SegundoParcial\\SegundoParcial\\FrmReparacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcial\\FrmReparacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:34:22.939Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
